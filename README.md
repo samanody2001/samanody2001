@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Youssef, an AI and data science student at GIU and Algorithmic/retail trader 👨‍💻  </div>  
+### <div align="center">I'm Youssef, an AI and data science student at GIU and Algorithmic/retail stock trader 👨‍💻  </div>  
   
 
 - 🔭 I’m currently working on my trading strategy  
